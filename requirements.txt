@@ -1,0 +1,8 @@
+torch>=2.0
+torchvision>=0.15
+diffusers>=0.20
+numpy>=1.23
+pillow>=9.0
+trimesh>=4.0
+pymeshlab>=2023.12
+tqdm>=4.65

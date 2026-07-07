@@ -1,0 +1,20 @@
+name: tactstyle
+channels:
+  - pytorch
+  - nvidia
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  # Conda-managed
+  - pytorch>=2.0
+  - torchvision>=0.15
+  - numpy>=1.23
+  - pillow>=9.1
+  - tqdm>=4.65
+  - trimesh>=4.0
+  # The rest are easier via pip
+  - pip:
+    - diffusers>=0.20
+    - pymeshlab>=2023.12
