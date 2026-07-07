@@ -1,8 +1,8 @@
-# TactStyle
+TouchStyle3D
 
-**TactStyle: Generating Tactile Textures with Generative AI for Digital Fabrication**
+**TouchStyle3D: Generating Tactile Textures with Generative AI for Digital Fabrication**
 
-Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. *CHI '25.*
+Adnan Khan, Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. *CHI '25.*
 
 <p align="center">
   <a href="https://hcie.csail.mit.edu/research/tactstyle/tactstyle.html"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-8A1A1A?style=flat-square&logo=githubpages&logoColor=white"></a>
