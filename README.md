@@ -2,10 +2,8 @@ TouchStyle3D
 
 **TouchStyle3D: Generating Tactile Textures with Generative AI for Digital Fabrication**
 
-Adnan Khan, Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. *CHI '25.*
+Adnan Khan, Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu, Shuyue Feng, Donald Degraen, Stefanie Mueller. 
 
-<p align="center">
-  <a href="https://hcie.csail.mit.edu/research/tactstyle/tactstyle.html"><img alt="Project Page" src="https://img.shields.io/badge/Project-Page-8A1A1A?style=flat-square&logo=githubpages&logoColor=white"></a>
   <a href="https://dl.acm.org/doi/10.1145/3706598.3713740"><img alt="DOI" src="https://img.shields.io/badge/ACM-DOI-1F6FEB?style=flat-square&logo=acm&logoColor=white"></a>
   <a href="https://groups.csail.mit.edu/hcie/files/research-projects/tactstyle/tactstyle.pdf"><img alt="Paper" src="https://img.shields.io/badge/Paper-PDF-EC1C24?style=flat-square&logo=adobeacrobatreader&logoColor=white"></a>
   <a href="https://www.youtube.com/watch?v=vIMCwYZR7wY&ab_channel=MITCSAIL"><img alt="Video" src="https://img.shields.io/badge/Video-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"></a>
@@ -18,7 +16,7 @@ Adnan Khan, Faraz Faruqi, Maxine Perroni-Scharf, Jaskaran Singh Walia, Yunyi Zhu
 </p>
 
 
-TactStyle stylizes 3D models with image inputs while incorporating the
+TouchStyle3D stylizes 3D models with image inputs while incorporating the
 *tactile* properties of the texture in addition to its color. We accomplish
 this by fine-tuning a Stable-Diffusion VAE to convert a texture's RGB diffuse
 image into a grayscale heightfield, and then displacing the surface of a 3D
